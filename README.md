@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-C:\Users\arowe\Downloads\Aleyah Rowell_Unit 5_gif (1).gif
+https://i.imgur.com/3JzqC7I.gifv
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
